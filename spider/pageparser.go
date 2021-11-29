@@ -2,8 +2,8 @@ package spider
 
 import (
 	"bytes"
-	"github.com/s-rah/onionscan/model"
-	"github.com/s-rah/onionscan/utils"
+	"github.com/Weldeasy/onionscan/model"
+	"github.com/Weldeasy/onionscan/utils"
 	"golang.org/x/net/html"
 	"io"
 	"net/url"

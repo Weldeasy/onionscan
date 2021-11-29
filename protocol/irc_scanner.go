@@ -2,9 +2,9 @@ package protocol
 
 import (
 	"fmt"
-	"github.com/s-rah/onionscan/config"
-	"github.com/s-rah/onionscan/report"
-	"github.com/s-rah/onionscan/utils"
+	"github.com/Weldeasy/onionscan/config"
+	"github.com/Weldeasy/onionscan/report"
+	"github.com/Weldeasy/onionscan/utils"
 )
 
 type IRCProtocolScanner struct {
